@@ -68,6 +68,6 @@ For more information on ASP.NET Core, design patterns, and other related topics,
 
 If you have any questions or need further assistance with this project, feel free to contact me:
 
-- Name: [Your Name]
-- Email: [Your Email Address]
+- Name: [Kagiso Setshwane]
+- Email: [34212728@mynwu.ac.za]
 
