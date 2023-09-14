@@ -11,13 +11,13 @@ Before working on this project, ensure that you have the following prerequisites
 - Access to the NWU Azure tenant using your MS Fed account (12345678@student365.msfed.nwu.ac.za).
 - A created resource group with the appropriate naming convention.
 - Visual Studio 2022 Community edition and .NET Core 6 installed.
-- The database required in Project 2 is created and accessible in Azure.
+- The database required  is created and accessible in Azure.
 
 ## Project Tasks
 
 ### GitHub Administration
 
-- Created and Configured GitHub Repository: [Link to Repository](https://github.com/yourusername/CMPG-323-Project-3)
+- Created and Configured GitHub Repository: [Link to Repository](https://github.com/KagisoS11/CMPG-323-Project-3)
 - README.md: This file provides an overview of the project and instructions for stakeholders.
 
 ### Project Setup
