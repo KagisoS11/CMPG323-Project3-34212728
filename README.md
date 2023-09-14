@@ -44,7 +44,7 @@ Before working on this project, ensure that you have the following prerequisites
 
 ## Submission Details
 
-- GitHub Repository URL: [Link to Your GitHub Repository](https://github.com/yourusername/CMPG-323-Project-3)
+- GitHub Repository URL: [Link to Your GitHub Repository]([https://github.com/yourusername/CMPG-323-Project-3](https://github.com/KagisoS11/CMPG323-Project3-34212728))
 - Data Source Credentials: [Provide necessary credentials privately to authorized users]
 - Web App URL: [Link to Your Hosted Web App]
 
