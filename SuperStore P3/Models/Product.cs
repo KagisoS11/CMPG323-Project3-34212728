@@ -22,5 +22,6 @@ namespace Models
 
         [DisplayName("Order Details")]
         public virtual ICollection<OrderDetail> OrderDetails { get; set; }
+        public object CreatedDate { get; internal set; }
     }
 }
