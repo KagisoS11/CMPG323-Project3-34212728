@@ -40,13 +40,12 @@ Before working on this project, ensure that you have the following prerequisites
 
 - Security: Ensured that no credentials are stored on GitHub.
 - Web API Cloud Hosting: Created an App Service and published the App on Azure. The App is secure and accessible.
-- Project Documentation: Updated this README.md file to guide users on how to use the App and provided a reference list of resources used.
 
 ## Submission Details
 
-- GitHub Repository URL: [Link to Your GitHub Repository]([https://github.com/yourusername/CMPG-323-Project-3](https://github.com/KagisoS11/CMPG323-Project3-34212728))
-- Azure Link :
-- Web App URL: [Link to Your Hosted Web App]
+- GitHub Repository URL: [Link to GitHub Repository]([https://github.com/yourusername/CMPG-323-Project-3](https://github.com/KagisoS11/CMPG323-Project3-34212728))
+- Azure Link : [Link to Azure]([https://portal.azure.com/?Microsoft_Azure_Education_correlationId=189c4101-1fdf-4952-8124-3b2d43c411ac&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=dedd55cf-6843-4801-ad00-90a6ba942168#@nwuac.onmicrosoft.com/resource/subscriptions/dedd55cf-6843-4801-ad00-90a6ba942168/resourceGroups/Ap1-project2/overview])
+- Web App URL: [Link to Hosted Web App]([https://ecopowerlogisticsproject3-cmpg323.azurewebsites.net/])
 
 ## Reference List
 
