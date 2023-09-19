@@ -43,9 +43,9 @@ Before working on this project, ensure that you have the following prerequisites
 
 ## Submission Details
 
-- GitHub Repository URL: [Link to GitHub Repository]([https://github.com/yourusername/CMPG-323-Project-3](https://github.com/KagisoS11/CMPG323-Project3-34212728))
-- Azure Link : [Link to Azure]([https://portal.azure.com/?Microsoft_Azure_Education_correlationId=189c4101-1fdf-4952-8124-3b2d43c411ac&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=dedd55cf-6843-4801-ad00-90a6ba942168#@nwuac.onmicrosoft.com/resource/subscriptions/dedd55cf-6843-4801-ad00-90a6ba942168/resourceGroups/Ap1-project2/overview])
-- Web App URL: [Link to Hosted Web App]([https://ecopowerlogisticsproject3-cmpg323.azurewebsites.net/])
+- GitHub Repository URL: [Link to GitHub Repository](https://github.com/yourusername/CMPG-323-Project-3](https://github.com/KagisoS11/CMPG323-Project3-34212728))
+- Azure Link : https://portal.azure.com/?Microsoft_Azure_Education_correlationId=189c4101-1fdf-4952-8124-3b2d43c411ac&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=dedd55cf-6843-4801-ad00-90a6ba942168#@nwuac.onmicrosoft.com/resource/subscriptions/dedd55cf-6843-4801-ad00-90a6ba942168/resourceGroups/Ap1-project2/overview]
+- Web App URL: https://ecopowerlogisticsproject3-cmpg323.azurewebsites.net/ 
 
 ## Reference List
 
